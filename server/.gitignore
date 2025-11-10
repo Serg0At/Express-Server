@@ -19,4 +19,4 @@ coverage/
 .env.test.local
 .env.production.local
 
-src/cryptoParser/tools/calculateProfit.js
+/src/cryptoParser/tools/calculateProfit.js
